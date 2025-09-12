@@ -2,21 +2,21 @@
   {
     "id": 101,
     "name": "Automóviles",
-    "description": "Los mejores precios en autos 0 kilómetro, de alta y media gama.",
+    "description": "Los mejores precios en automóviles BYD nuevos.",
     "productCount": "5",
     "imgSrc": "img/cat101_1.jpg"
   },
   {
     "id": 102,
     "name": "Juguetes",
-    "description": "Encuentra aquí los mejores precios para niños/as de cualquier edad.",
+    "description": "Encuentra aquí los mejores precios para niño@s de cualquier edad.",
     "productCount": "4",
     "imgSrc": "img/cat102_1.jpg"
   },
   {
     "id": 103,
     "name": "Muebles",
-    "description": "Muebles antiguos, nuevos y para ser armados por uno mismo.",
+    "description": "Todo para amueblar tu casa.",
     "productCount": "4",
     "imgSrc": "img/cat103_1.jpg"
   },
@@ -30,21 +30,21 @@
   {
     "id": 105,
     "name": "Computadoras",
-    "description": "Todo en cuanto a computadoras, para uso de oficina y/o juegos.",
+    "description": "¿Necesitas una computadora nueva? Aquí la encontrarás.",
     "productCount": 1,
     "imgSrc": "img/cat105_1.jpg"
   },
   {
     "id": 106,
     "name": "Vestimenta",
-    "description": "Gran variedad de ropa, nueva y de segunda mano.",
+    "description": "Gran variedad de ropa nueva.",
     "productCount": 0,
     "imgSrc": "img/cat106_1.jpg"
   },
   {
     "id": 107,
     "name": "Electrodomésticos",
-    "description": "Todos los electrodomésticos modernos y de bajo consumo.",
+    "description": "Encuentra lo mejor para equipar tu casa.",
     "productCount": 0,
     "imgSrc": "img/cat107_1.jpg"
   },
