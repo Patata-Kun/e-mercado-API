@@ -18,7 +18,7 @@
     "name": "Muebles",
     "description": "Todo para amueblar tu casa.",
     "productCount": "4",
-    "imgSrc": "img/px/cat103_1.jpg"
+    "imgSrc": "../img/px/cat103_1.jpg"
   },
   {
     "id": 104,
