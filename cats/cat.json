@@ -51,14 +51,14 @@
   {
     "id": 108,
     "name": "Deporte",
-    "description": "Toda la variedad de indumentaria para todo tipo de deporte.",
+    "description": "Variedad de equipamiento para todo tipo de deporte.",
     "productCount": 0,
     "imgSrc": "../img/px/cat108_1.jpg"
   },
   {
     "id": 109,
     "name": "Celulares",
-    "description": "Celulares de todo tipo para cubrir todas las necesidades.",
+    "description": "Celulares de todas las gamas.",
     "productCount": 0,
     "imgSrc": "../img/px/cat109_1.jpg"
   }
