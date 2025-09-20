@@ -29,8 +29,8 @@
   },
   {
     "id": 105,
-    "name": "Computadoras",
-    "description": "¿Necesitas una computadora nueva? Aquí la encontrarás.",
+    "name": "Tecnología",
+    "description": "¿Necesitas una computadora nueva?, ¿o un celular?, ¿qué tal unos auriculares? Aquí los encuentras.",
     "productCount": 1,
     "imgSrc": "../img/px/cat105_1.jpg"
   },
@@ -54,12 +54,5 @@
     "description": "Variedad de equipamiento para todo tipo de deporte.",
     "productCount": 0,
     "imgSrc": "../img/px/cat108_1.jpg"
-  },
-  {
-    "id": 109,
-    "name": "Celulares",
-    "description": "Celulares de todas las gamas.",
-    "productCount": 0,
-    "imgSrc": "../img/px/cat109_1.jpg"
   }
 ]
