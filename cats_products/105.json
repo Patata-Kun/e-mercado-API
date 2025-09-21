@@ -9,16 +9,31 @@
       "cost": 2599,
       "currency": "USD",
       "soldCount": 11,
-      "image": "img/prod40281_1.jpg"
-    }
+      "image": "img/prod50001_1.jpg"
+    },
     {
-      "id":50002,
+      "id": 50002,
       "name": "MacBook Pro M4 - 14 pulgadas",
       "description": "Diseñado para Apple Intelligence. La nueva MacBook Pro incorpora la gama más avanzada de chips que se han creado nunca para un portátil profesional, los Apple M4.",
-      "cost":,
-      "currency":,
-      "image":,
-      "soldCount":
+      "cost": 1999,
+      "currency": "USD",
+      "image": "img/prod50002_1.jpg",
+      "soldCount": 5
+    },
+    {
+      "id": 50003,
+      "name": "Samsung Galaxy ZFlip7",
+      "description": [
+        "Pantalla -> Principal de 6,9\" Dynamic AMOLED 2x, 1 a 120 H. De cubierta de 4,1\" Super AMOLED, 60 a 120 Hz.",
+        "Cámaras -> Wide de 50 MP F1.8. Ultrawide de 12 MP F2.2 Frontal de 10 MP F2.2.",
+        "Procesador -> Qualcomm Snapdragon© 8 Elite para Galxaxy.",
+        "Memoria -> 12 GB.",
+        "Almacenamiento -> 256 GB."
+      ],
+      "cost": 1149,
+      "currency": "USD",
+      "image": "img/prod50003_1.jpg",
+      "soldCount": 8
     }
   ]
 }
