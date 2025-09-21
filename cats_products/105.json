@@ -33,7 +33,13 @@
       "cost": 1149,
       "currency": "USD",
       "image": "img/prod50003_1.jpg",
-      "soldCount": 8
+      "soldCount": 8,
+      "colors": [
+        "Blue Shadow",
+        "Jetblack",
+        "Coralred",
+        "Mint"
+      ]
     }
   ]
 }
