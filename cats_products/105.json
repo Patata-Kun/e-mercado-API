@@ -4,12 +4,12 @@
   "products": [
     {
       "id": 50001,
-      "name": "Computadora de escritorio",
-      "description": "Computadora de escritorio. Potencia y rendimiento, para juegos o trabajo",
+      "name": "PC escritorio - Ryzen 7 7700X, 32 GB, 1 TB M.2, Radeon 9060XT 16 GB",
+      "description": "Computadora de escritorio. Potencia y rendimiento, para juegos o trabajo.",
       "cost": 2599,
       "currency": "USD",
       "soldCount": 11,
-      "image": "img/prod50001_1.jpg"
+      "image": "../img/prod50001_1.jpg"
     },
     {
       "id": 50002,
@@ -17,7 +17,7 @@
       "description": "Diseñado para Apple Intelligence. La nueva MacBook Pro incorpora la gama más avanzada de chips que se han creado nunca para un portátil profesional, los Apple M4.",
       "cost": 1999,
       "currency": "USD",
-      "image": "img/prod50002_1.jpg",
+      "image": "../img/prod50002_1.jpg",
       "soldCount": 5
     },
     {
@@ -32,14 +32,17 @@
       ],
       "cost": 1149,
       "currency": "USD",
-      "image": "img/prod50003_1.jpg",
-      "soldCount": 8,
-      "colors": [
-        "Blue Shadow",
-        "Jetblack",
-        "Coralred",
-        "Mint"
-      ]
+      "image": "../img/prod50003_1.jpg",
+      "soldCount": 8
+    },
+    {
+      "id": 50004,
+      "name": "Tocadiscos Audio-Technica AT-LP60X",
+      "description": "Tanto si acaba de llegar al mundo del vinilo, está redescubriendo una colección de discos olvidada durante años o simplemente desea incorporar un tocadiscos para completar su sistema, el tocadiscos de transmisión por correa totalmente automático AT-LP60X es una opción excelente.",
+      "cost": 219,
+      "currency": "USD",
+      "image": "../img/prod50004_1.jpg",
+      "soldCount": 5
     }
   ]
 }

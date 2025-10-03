@@ -1,0 +1,32 @@
+{
+  "id": 50003,
+  "name": "Samsung Galaxy ZFlip7",
+  "categoryId": 105,
+  "description": [
+        "Pantalla -> Principal de 6,9\" Dynamic AMOLED 2x, 1 a 120 H. De cubierta de 4,1\" Super AMOLED, 60 a 120 Hz.",
+        "Cámaras -> Wide de 50 MP F1.8. Ultrawide de 12 MP F2.2 Frontal de 10 MP F2.2.",
+        "Procesador -> Qualcomm Snapdragon© 8 Elite para Galxaxy.",
+        "Memoria -> 12 GB.",
+        "Almacenamiento -> 256 GB o 512 GB."
+      ],
+  "cost": 1149,
+  "currency": "USD",
+  "soldCount": 8,
+  "images": [
+    "../img/prod50003_1.jpg",
+    "../img/prod50003_2.jpg",
+    "../img/prod50003_3.jpg",
+    "../img/prod50003_4.jpg",
+    "../img/prod50003_5.jpg"
+  ],
+  "versions": [
+    "256 GB",
+    "512 GB"
+  ],
+  "colors": [
+    "Blue Shadow",
+    "Jetblack",
+    "Coralred",
+    "Mint"
+  ]
+}
