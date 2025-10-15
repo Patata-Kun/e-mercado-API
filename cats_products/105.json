@@ -23,13 +23,7 @@
     {
       "id": 50003,
       "name": "Samsung Galaxy ZFlip7",
-      "description": [
-        "Pantalla -> Principal de 6,9\" Dynamic AMOLED 2x, 1 a 120 H. De cubierta de 4,1\" Super AMOLED, 60 a 120 Hz.",
-        "Cámaras -> Wide de 50 MP F1.8. Ultrawide de 12 MP F2.2 Frontal de 10 MP F2.2.",
-        "Procesador -> Qualcomm Snapdragon© 8 Elite para Galxaxy.",
-        "Memoria -> 12 GB.",
-        "Almacenamiento -> 256 GB."
-      ],
+      "description": "Presentamos el Galaxy Z Flip más delgado y avanzado: belleza y rendimiento sin igual que se adapta a tu estilo de vida y a tu bolsillo perfectamente. La pantalla de la cubierta ampliada es sensacional de principio a fin y está incorporada a una estructura duradera más delgada, tanto plegada como desplegada.",
       "cost": 1149,
       "currency": "USD",
       "image": "../img/prod50003_1.jpg",
