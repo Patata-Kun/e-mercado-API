@@ -9,7 +9,7 @@
       "cost": 259,
       "currency": "USD",
       "soldCount": 9,
-      "image": "../img/prod50001_1.jpg"
+      "image": "../img/prod40001_1.jpg"
     },
 {
       "id": 40002,
@@ -17,7 +17,7 @@
       "description": "Ideal para lavar automóviles, botes, patios, entrada de vehículos. Batería de 1300mAh. Presión de trabajo máxima de 430PSI.",
       "cost": 55,
       "currency": "USD",
-      "image": "../img/prod50002_1.jpg",
+      "image": "../img/prod40002_1.jpg",
       "soldCount": 21
     },
 {
@@ -26,7 +26,7 @@
       "description": "Diámetro de corte de 32cm. Incluye una práctica bolsa de recolección de 25L, lo que te permite trabajar de manera más eficiente sin dejar rastro de hierba cortada. Sus 3 niveles de altura de corte ajustables (25, 40, 55mm) te darán la posibilidad de adaptar el corte a tus necesidades y preferencias.",
       "cost": 115,
       "currency": "USD",
-      "image": "../img/prod50003_1.jpg",
+      "image": "../img/prod40003_1.jpg",
       "soldCount": 18
     },
 {
@@ -35,7 +35,7 @@
       "description": "Ideal para la limpieza de placares, alacenas y ventanas en habitaciones de cualquier altura. Su diseño portátil y plegable permite ahorrar espacio permitiendo un fácil almacenamiento y transporte, siendo apta tanto para interiores como exteriores. Fabricada con un resistente marco de acero de carbono, es liviana, duradera y fácil de trasladar, con patas antideslizantes que aumentan la seguridad y protegen el suelo.",
       "cost": 49,
       "currency": "USD",
-      "image": "../img/prod50004_1.jpg",
+      "image": "../img/prod40004_1.jpg",
       "soldCount": 37
     },
 {
@@ -44,7 +44,7 @@
       "description": "Tiene una potencia de 2200W y arranque fácil para un desempeño sin problemas. Su velocidad máxima es de 11500RPM mientras que la velocidad de giro es de 3300RPM. Cuenta con 550ml de capacidad de combustible y 260ml de aceite.",
       "cost": 55,
       "currency": "USD",
-      "image": "../img/prod50003_1.jpg",
+      "image": "../img/prod40005_1.jpg",
       "soldCount": 29
     },
 {
@@ -53,7 +53,7 @@
       "description": "Ideal para trabajos de bricolaje. Batería recargable de 1500mAh. Torque máximo de 25Nm. Capacidad de perforación de 10mm.cuenta con 2 velocidades de 350/1350rpm, 6 mechas, 6 puntas de destornillador, un extensor recto, cargador y un práctico maletín de transporte.",
       "cost": 45,
       "currency": "USD",
-      "image": "../img/prod50003_1.jpg",
+      "image": "../img/prod40006_1.jpg",
       "soldCount": 79
     }   
   ]

@@ -9,7 +9,7 @@
       "cost": 259,
       "currency": "USD",
       "soldCount": 32,
-      "image": "../img/prod50001_1.jpg"
+      "image": "../img/prod70001_1.jpg"
     },
     {
       "id": 70002,
@@ -18,7 +18,7 @@
       "cost": 100,
       "currency": "USD",
       "soldCount": 74,
-      "image": "../img/prod50001_1.jpg"
+      "image": "../img/prod70002_1.jpg"
     },
     {
       "id": 70003,
@@ -27,7 +27,7 @@
       "cost": 499,
       "currency": "USD",
       "soldCount": 16,
-      "image": "../img/prod50001_1.jpg"
+      "image": "../img/prod70003_1.jpg"
     },
     {
       "id": 70004,
@@ -36,7 +36,7 @@
       "cost": 359,
       "currency": "USD",
       "soldCount": 33,
-      "image": "../img/prod50001_1.jpg"
+      "image": "../img/prod70004_1.jpg"
     },
     {
       "id": 70005,
@@ -45,7 +45,7 @@
       "cost": 299,
       "currency": "USD",
       "soldCount": 25,
-      "image": "../img/prod50001_1.jpg"
+      "image": "../img/prod70005_1.jpg"
     },
     {
       "id": 70006,
@@ -54,7 +54,7 @@
       "cost": 89,
       "currency": "USD",
       "soldCount": 42,
-      "image": "../img/prod50001_1.jpg"
+      "image": "../img/prod70006_1.jpg"
     }
   ]
 }
