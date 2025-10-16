@@ -1,27 +1,27 @@
 {
-    "id": 50001,
-    "name": "Computadora de escritorio",
-    "description": "Computadora de escritorio. Potencia y rendimiento, para juegos o trabajo",
-    "cost": 2599,
-    "currency": "USD",
-    "soldCount": 11,
-    "category": "Computadoras",
-    "images": [
-        "img/prod40281_1.jpg",
-        "img/prod40281_2.jpg",
-        "img/prod40281_3.jpg",
-        "img/prod40281_4.jpg"
-    ],
-    "relatedProducts": [
-        {
-            "id":20003,
-            "name":"PlayStation 5",
-            "image": "img/prod50743_1.jpg"
-        },
-        {
-            "id":20004,
-            "name":"Bicicleta",
-            "image": "img/prod50744_1.jpg"
-        }
-    ]
+  "id": 50001,
+  "name": "Computadora de escritorio",
+  "description": "Computadora de escritorio. Potencia y rendimiento, para juegos otrabajo",
+  "cost": 2599,
+  "currency": "USD",
+  "soldCount": 11,
+  "category": "Computadoras",
+  "images": [
+      "img/px/prod50001_1.jpg",
+      "img/px/prod50001_2.jpg",
+      "img/px/prod50001_3.jpg",
+      "img/px/prod50001_4.jpg"
+  ],
+  "relatedProducts": [
+      {
+          "id":20003,
+          "name":"PlayStation 5",
+          "image": "img/prod50743_1.jpg"
+      },
+      {
+          "id":20004,
+          "name":"Bicicleta",
+          "image": "img/prod50744_1.jpg"
+      }
+  ]
 }
