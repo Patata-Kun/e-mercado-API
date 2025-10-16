@@ -1,15 +1,15 @@
 {
   "catID": 105,
-  "catName": "Computadoras",
+  "catName": "Tecnología",
   "products": [
     {
       "id": 50001,
-      "name": "PC escritorio - Ryzen 7 7700X, 32 GB, 1 TB M.2, Radeon 9060XT 16 GB",
+      "name": "PC escritorio - Ryzen 7 7700X, 32 GB 5000 mHz, 1 TB M.2, Radeon 9060XT 16 GB",
       "description": "Computadora de escritorio. Potencia y rendimiento, para juegos o trabajo.",
       "cost": 2599,
       "currency": "USD",
       "soldCount": 11,
-      "image": "img/prod50001_1.jpg"
+      "image": "../img/px/prod50001_1.jpg"
     },
     {
       "id": 50002,
