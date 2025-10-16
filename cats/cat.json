@@ -24,35 +24,35 @@
     "id": 104,
     "name": "Herramientas",
     "description": "Herramientas para cualquier tipo de trabajo.",
-    "productCount": 0,
+    "productCount": "6",
     "imgSrc": "../img/px/cat104_1.jpg"
   },
   {
     "id": 105,
     "name": "Tecnología",
     "description": "¿Necesitas una computadora nueva?, ¿o un celular?, ¿qué tal unos auriculares? Aquí los encuentras.",
-    "productCount": 1,
+    "productCount": "4",
     "imgSrc": "../img/px/cat105_1.jpg"
   },
   {
     "id": 106,
     "name": "Vestimenta",
     "description": "Gran variedad de ropa nueva.",
-    "productCount": 0,
+    "productCount": "0",
     "imgSrc": "../img/px/cat106_1.jpg"
   },
   {
     "id": 107,
     "name": "Electrodomésticos",
     "description": "Encuentra lo mejor para equipar tu casa.",
-    "productCount": 0,
+    "productCount": "6",
     "imgSrc": "../img/px/cat107_1.jpg"
   },
   {
     "id": 108,
     "name": "Deporte",
     "description": "Variedad de equipamiento para todo tipo de deporte.",
-    "productCount": 0,
+    "productCount": "6",
     "imgSrc": "../img/px/cat108_1.jpg"
   }
 ]
