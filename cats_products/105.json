@@ -13,7 +13,7 @@
     },
     {
       "id": 50002,
-      "name": "MacBook Pro M4 - 14 pulgadas",
+      "name": "MacBook Pro M4 - 14\"",
       "description": "Diseñado para Apple Intelligence. La nueva MacBook Pro incorpora la gama más avanzada de chips que se han creado nunca para un portátil profesional, los Apple M4.",
       "cost": 1999,
       "currency": "USD",
@@ -37,6 +37,15 @@
       "currency": "USD",
       "image": "../img/px/prod50004_1.jpg",
       "soldCount": 5
+    },
+    {
+      "id": 50005,
+      "name": "PlayStation 5",
+      "description": "Maravíllate con increíbles gráficos y disfruta de nuevas funciones de PS5. Con E/S integrada.",
+      "cost": 789,
+      "currency": "USD",
+      "soldCount": 16,
+      "image": "../img/px/prod50005_1.jpg"
     }
   ]
 }
