@@ -1,10 +1,10 @@
 {
   "catID": 101,
-  "catName": "Autos BYD",
+  "catName": "Automóviles",
   "products": [
     {
       "id": 10001,
-      "name": "BYD Seagull",
+      "name": "BYD Seagull GS",
       "description": [
         "-> e-Platform 3.0.",
         "Batería Blade ultra segura con una autonomía de hasta 380 km (según el NEDC).",

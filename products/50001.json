@@ -1,11 +1,11 @@
 {
   "id": 50001,
   "name": "Computadora de escritorio",
-  "description": "Computadora de escritorio. Potencia y rendimiento, para juegos otrabajo",
+  "description": "Computadora de escritorio. Potencia y rendimiento, para juegos o trabajo.",
   "cost": 2599,
   "currency": "USD",
   "soldCount": 11,
-  "category": "Computadoras",
+  "category": "Tecnología",
   "images": [
       "img/px/prod50001_1.jpg",
       "img/px/prod50001_2.jpg",
