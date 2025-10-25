@@ -1,6 +1,6 @@
 {
   "id": 50002,
-  "name": "MacBook Pro M4 - 14\" ",
+  "name": "MacBook Pro M4 – 14\" ",
   "categoryId": 105,
   "description": [
         "Pantalla -> Liquid Retina XDR de 14\"",
@@ -12,11 +12,10 @@
   "currency": "USD",
   "soldCount": 8,
   "images": [
-    "../img/prod50002_1.jpg",
-    "../img/prod50002_2.jpg",
-    "../img/prod50002_3.jpg",
-    "../img/prod50002_4.jpg",
-    "../img/prod50002_5.jpg"
+    "../img/px/prod50002_1.jpg",
+    "../img/px/prod50002_2.jpg",
+    "../img/px/prod50002_3.jpg",
+    "../img/px/prod50002_4.jpg"
   ],
   "colors": [
     "Space Black",

@@ -1,22 +1,28 @@
 {
   "id": 50001,
-  "name": "Computadora de escritorio",
-  "description": "Computadora de escritorio. Potencia y rendimiento, para juegos o trabajo.",
+  "name": "PC de escritorio",
+  "category": "Tecnología",
+  "description": [
+    "Gabinete -> Fractal Design North - Charcoal black con cristal templado.",
+    "Placa base -> Gigabyte Aorus B850.",
+    "CPU -> AMD Ryzen 7 9800X3D.",
+    "GPU -> Nvidia 5080 Founders Edition (16 GB).",
+    "RAM -> Kingston Fury Beast 32 GB DDR5 (16x2) a 5600 MHz.",
+    "Almacenamiento: Kingston Fury Renegade M.2 1 TB PCIe 5.0."
+  ],
   "cost": 2599,
   "currency": "USD",
   "soldCount": 11,
-  "category": "Tecnología",
   "images": [
-      "img/px/prod50001_1.jpg",
-      "img/px/prod50001_2.jpg",
-      "img/px/prod50001_3.jpg",
-      "img/px/prod50001_4.jpg"
+      "../img/px/prod50001_1.jpg",
+      "../img/px/prod50001_2.jpg",
+      "../img/px/prod50001_3.jpg"
   ],
   "relatedProducts": [
       {
           "id":20003,
           "name":"PlayStation 5",
-          "image": "../img/prod50743_1.jpg"
+          "image": "../img/px/prod50743_1.jpg"
       },
       {
           "id":20004,

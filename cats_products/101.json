@@ -5,11 +5,7 @@
     {
       "id": 10001,
       "name": "BYD Seagull GS",
-      "description": [
-        "-> e-Platform 3.0.",
-        "Batería Blade ultra segura con una autonomía de hasta 380 km (según el NEDC).",
-        "Hasta 6 airbags."
-      ],
+      "description": "Auto compacto 100% eléctrico. Funcional, eficiente, divertido.",
       "cost": 19990,
       "currency": "USD",
       "image":"https://byd.com.uy/wp-content/uploads/2024/01/portada_bydseagull.png",
