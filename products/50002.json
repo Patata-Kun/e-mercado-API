@@ -1,13 +1,13 @@
 {
   "id": 50002,
   "name": "MacBook Pro M4 – 14\" ",
-  "categoryId": 105,
+  "category": "Tecnología",
   "description": [
-        "Pantalla -> Liquid Retina XDR de 14\"",
-        "Procesador -> Apple M4 Pro. 12 núcleos CPU, 16 núcleos GPU",
-        "Memoria -> 24 GB.",
-        "Almacenamiento -> 512 GB."
-      ],
+    "Pantalla -> Liquid Retina XDR de 14\"",
+    "Procesador -> Apple M4 Pro. 12 núcleos CPU, 16 núcleos GPU",
+    "Memoria -> 24 GB.",
+    "Almacenamiento -> 512 GB."
+  ],
   "cost": 1149,
   "currency": "USD",
   "soldCount": 8,
@@ -17,7 +17,7 @@
     "../img/px/prod50002_3.jpg",
     "../img/px/prod50002_4.jpg"
   ],
-  "colors": [
+  "color": [
     "Space Black",
     "Silver"
   ]
