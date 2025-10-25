@@ -7,21 +7,21 @@
     "soldCount": 8,
     "category": "Juguetes",
     "images": [
-        "img/px/prod20004_1.jpg",
-        "img/px/prod20004_2.jpg",
-        "img/px/prod20004_3.jpg",
-        "img/px/prod20004_4.jpg"
+        "../img/px/prod20004_1.jpg",
+        "../img/px/prod20004_2.jpg",
+        "../img/px/prod20004_3.jpg",
+        "../img/px/prod20004_4.jpg"
     ],
     "relatedProducts": [
         {
             "id":20001,
             "name":"Oso de peluche",
-            "image": "img/prod50741_1.jpg"
+            "image": "../img/prod50741_1.jpg"
         },
         {
             "id":20003,
             "name":"PlayStation 5",
-            "image": "img/prod50743_1.jpg"
+            "image": "../img/prod50743_1.jpg"
         }
     ]
 }

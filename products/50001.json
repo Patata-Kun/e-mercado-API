@@ -16,12 +16,12 @@
       {
           "id":20003,
           "name":"PlayStation 5",
-          "image": "img/prod50743_1.jpg"
+          "image": "../img/prod50743_1.jpg"
       },
       {
           "id":20004,
           "name":"Bicicleta",
-          "image": "img/prod50744_1.jpg"
+          "image": "../img/prod50744_1.jpg"
       }
   ]
 }
