@@ -30,12 +30,11 @@
   "currency": "USD",
   "soldCount": 77,
   "icon-car-type": "car",
-  "images": {
-    "banner": "https://www.byd.com/content/dam/byd-site/co/product/seagull/pc/2-banner.jpg",
-    "colors":[
-    "https://www.byd.com/content/dam/byd-site/co/order/seagull/pc/Orderside-Apricitywhite.jpg",
-    "https://www.byd.com/content/dam/byd-site/co/order/seagull/pc/Orderside-SproutGreen.jpg",
-    "https://www.byd.com/content/dam/byd-site/co/order/seagull/pc/Orderside-PolarNightBlack.jpg",
-    "https://www.byd.com/content/dam/byd-site/co/order/seagull/pc/Orderside-Peachpink.jpg"]
-  }
+  "images": [
+  "https://www.byd.com/content/dam/byd-site/co/product/seagull/pc/2-banner.jpg",
+  "https://www.byd.com/content/dam/byd-site/co/order/seagull/pc/Orderside-Apricitywhite.jpg",
+  "https://www.byd.com/content/dam/byd-site/co/order/seagull/pc/Orderside-SproutGreen.jpg",
+  "https://www.byd.com/content/dam/byd-site/co/order/seagull/pc/Orderside-PolarNightBlack.jpg",
+  "https://www.byd.com/content/dam/byd-site/co/order/seagull/pc/Orderside-Peachpink.jpg"
+  ]
 }
