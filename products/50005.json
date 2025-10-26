@@ -12,14 +12,25 @@
   ],
   "relatedProducts": [
       {
-          "id": 50002,
-          "name": "MacBook Pro M4 - 14 pulgadas",
-          "image": "../img/px/prod50002_1.jpg"
+        "id": 50002,
+        "name": "MacBook Pro M4 - 14 pulgadas",
+        "cost": 1149,
+        "currency": "USD",
+        "image": "../img/px/prod50002_1.jpg"
       },
       {
-          "id": 50001,
-          "name": "PC de escritorio",
-          "image": "../img/px/prod50001_1.jpg"
+        "id": 50001,
+        "name": "PC de escritorio",
+        "cost": 2599,
+        "currency": "USD",
+        "image": "../img/px/prod50001_1.jpg"
+      },
+      {
+        "id": 50004,
+        "name": "Tocadiscos Audio-Technica AT-LP60X",
+        "cost": 219,
+        "currency": "USD",
+        "image": "../img/px/prod50004_1.jpg"
       }
   ]
 }
