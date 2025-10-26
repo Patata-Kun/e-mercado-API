@@ -6,9 +6,9 @@
     "Gabinete -> Fractal Design North – Cristal templado.",
     "Placa base -> Gigabyte Aorus B850.",
     "CPU -> AMD Ryzen 7 9800X3D.",
-    "GPU -> Nvidia 5080 Founders Edition (16 GB).",
+    "GPU -> GeForce RTX 5080 Founders Edition (16 GB).",
     "RAM -> Kingston Fury Beast 32 GB DDR5 (16x2) a 5600 MHz.",
-    "Almacenamiento: Kingston Fury Renegade M.2 1 TB PCIe 5.0."
+    "Almacenamiento -> Kingston Fury Renegade M.2 1 TB PCIe 5.0."
   ],
   "cost": 2599,
   "currency": "USD",
@@ -22,12 +22,15 @@
       {
           "id":50005,
           "name":"PlayStation 5",
-          "cost": 
+          "cost": "859",
+          "currency": "USD",
           "image": "../img/px/prod50005_1.jpg"
       },
       {
           "id":50002,
           "name":"MacBook Pro M4 – 14\"",
+          "cost": "1149",
+          "currency": "USD",
           "image": "../img/px/prod50002_1.jpg"
       }
   ],
