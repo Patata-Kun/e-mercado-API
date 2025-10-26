@@ -21,15 +21,15 @@
   "relatedProducts": [
       {
           "id":50005,
-          "name":"PlayStation 5",
-          "cost": "859",
+          "name":"PlayStation 5 Slim Standard – 1 TB",
+          "cost": 859,
           "currency": "USD",
           "image": "../img/px/prod50005_1.jpg"
       },
       {
           "id":50002,
           "name":"MacBook Pro M4 – 14\"",
-          "cost": "1149",
+          "cost": 1149,
           "currency": "USD",
           "image": "../img/px/prod50002_1.jpg"
       }
