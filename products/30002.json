@@ -1,0 +1,31 @@
+{
+  "id": 30002,
+  "name": "Sofá",
+  "description": "Cómodo sofá de tres cuerpos, con chaiselongue intercambiable. Ideal para las siestas",
+  "cost": 24000,
+  "currency": "UYU",
+  "soldCount": 12,
+  "category": "Muebles",
+  "images": [
+      "img/px/prod30002_1",
+      "img/px/prod30002_2",
+      "img/px/prod30002_3"
+  ],
+  "relatedProducts": [
+    {
+          "id":30001,
+          "name":"Juego de Comedor",
+          "image": "img/px/prod30001_1"
+      },
+      {
+          "id":30003,
+          "name":"Armario",
+          "image": "img/px/prod30003_1.jpg"
+      },
+      {
+          "id":30004,
+          "name":"Mesa de Centro",
+          "image": "img/px/prod30004_1.jpg"
+      }
+  ]
+}
