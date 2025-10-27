@@ -46,6 +46,15 @@
       "currency": "USD",
       "soldCount": 16,
       "image": "../img/px/prod50005_1.jpg"
+    },
+    {
+      "id": 50006,
+      "name": "Samsung Galaxy XR",
+      "description": "Un mundo sin límites. Galaxy XR abre nuevas realidades de entretenimiento inmersivo, seleccionadas de forma inteligente solo para ti. Ve, trabaja y juega con la IA a tu lado.",
+      "cost": 1800,
+      "currency": "USD",
+      "soldCount": 1,
+      "image": "../img/px/prod50006_1.jpg"
     }
   ]
 }
