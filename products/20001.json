@@ -14,12 +14,16 @@
       {
           "id":20002,
           "name":"Pelota de básquetbol",
-          "image": "img/px/prod50742_1.jpg"
+          "cost": 2999,
+          "currency": "UYU",
+          "image": "../img/px/prod20002_1.jpg"
       },
       {
           "id":20004,
           "name":"Bicicleta",
-          "image": "img/px/prod50744_1.jpg"
+          "cost": 10999,
+          "currency": "UYU",
+          "image": "../img/px/prod20004_1.jpg"
       }
   ]
 }

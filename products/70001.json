@@ -7,23 +7,29 @@
   "soldCount": 32,
   "category": "Electrodomésticos",
   "images": [
-      "img/px/prod70001_1.jpg"
+      "../img/px/prod70001_1.jpg"
   ],
   "relatedProducts": [
     {
           "id":70002,
           "name":"Microondas PANAVOX",
-          "image": "img/px/prod70002_1.jpg"
+          "cost": 4000,
+          "currency": "UYU",
+          "image": "../img/px/prod70002_1.jpg"
       },
       {
           "id":70003,
           "name":"Refrigerador PANAVOX RFS-54 INV N",
-          "image": "img/px/prod70003_1.webp"
+          "cost": 20000,
+          "currency": "UYU",
+          "image": "../img/px/prod70003_1.webp"
       },
       {
           "id":70004,
           "name":"Aire acondicionado PANAVOX 17.000 btu",
-          "image": "img/px/prod70004_1.jpg"
+          "cost": 14000,
+          "currency": "UYU",
+          "image": "../img/px/prod70004_1.jpg"
       }
   ]
 }

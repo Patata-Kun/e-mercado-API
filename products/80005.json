@@ -7,24 +7,30 @@
   "soldCount": 1530,
   "category": "Deporte",
   "images": [
-      "img/px/prod80005_1.jpg",
-      "img/px/prod80005_2.jpg"
+      "../img/px/prod80005_1.jpg",
+      "../img/px/prod80005_2.jpg"
   ],
   "relatedProducts": [
     {
           "id":80001,
           "name":"Pelota ADIDAS Jabulani",
-          "image": "img/px/prod80001_1.jpg"
+          "cost": 4000,
+          "currency": "UYU",
+          "image": "../img/px/prod80001_1.jpg"
       },
-      {
+    {
           "id":80002,
           "name":"Pelota Basketball N°7 Nba Drv",
-          "image": "img/px/prod80002_1.jgp"
+          "cost": 2500,
+          "currency": "UYU",
+          "image": "../img/px/prod80002_1.jpg"
       },
       {
           "id":80006,
           "name":"Camiseta de Nacional Azul Alternativa 2025",
-          "image": "img/px/prod80006_2.jpg"
+          "cost": 4000,
+          "currency": "UYU",
+          "image": "../img/px/prod80006_2.jpg"
       }
   ]
 }

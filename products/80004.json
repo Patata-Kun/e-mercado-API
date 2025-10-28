@@ -7,24 +7,30 @@
   "soldCount": 22,
   "category": "Deporte",
   "images": [
-      "img/px/prod80004_1.jpg",
-      "img/px/prod80004_2.jpg"
+      "../img/px/prod80004_1.jpg",
+      "../img/px/prod80004_2.jpg"
   ],
   "relatedProducts": [
     {
           "id":80001,
           "name":"Pelota ADIDAS Jabulani",
-          "image": "img/px/prod80001_1.jpg"
+          "cost": 4000,
+          "currency": "UYU",
+          "image": "../img/px/prod80001_1.jpg"
       },
-      {
+    {
           "id":80002,
           "name":"Pelota Basketball N°7 Nba Drv",
-          "image": "img/px/prod80002_1.jgp"
+          "cost": 2500,
+          "currency": "UYU",
+          "image": "../img/px/prod80002_1.jpg"
       },
       {
           "id":80003,
           "name":"Colchoneta De Yoga ADIDAS 7mm",
-          "image": "img/px/prod80003_1.jpg"
+          "cost": 400,
+          "currency": "UYU",
+          "image": "../img/px/prod80003_1.jpg"
       }
   ]
 }

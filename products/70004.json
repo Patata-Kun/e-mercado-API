@@ -7,24 +7,30 @@
   "soldCount": 33,
   "category": "Electrodomésticos",
   "images": [
-      "img/px/prod70004_1.png",
-      "img/px/prod70004_2.jpg"
+      "../img/px/prod70004_1.png",
+      "../img/px/prod70004_2.jpg"
   ],
   "relatedProducts": [
     {
           "id":70001,
           "name":"Lavarropas JAMES LR 1006 G3/G4",
-          "image": "img/px/prod70001_1.jpg"
+          "cost": 10000,
+          "currency": "UYU",
+          "image": "../img/px/prod70001_1.jpg"
       },
       {
           "id":70003,
           "name":"Refrigerador PANAVOX RFS-54 INV N",
-          "image": "img/px/prod70003_1.webp"
+          "cost": 20000,
+          "currency": "UYU",
+          "image": "../img/px/prod70003_1.webp"
       },
       {
           "id":70005,
           "name":"Lavavajilla PANAVOX WQP8 Silver",
-          "image": "img/px/prod70005_1.jpg"
+          "cost": 12000,
+          "currency": "UYU",
+          "image": "../img/px/prod70005_1.jpg"
       }
   ]
 }

@@ -7,25 +7,31 @@
   "soldCount": 21,
   "category": "Herramientas",
   "images": [
-      "img/px/prod40002_1.webp",
-      "img/px/prod40002_2.webp",
-      "img/px/prod40002_3.webp"
+      "../img/px/prod40002_1.webp",
+      "../img/px/prod40002_2.webp",
+      "../img/px/prod40002_3.webp"
   ],
   "relatedProducts": [
     {
           "id":40001,
           "name":"Lustra Pulidora BLACK DECKER",
-          "image": "img/px/prod40001_1.webp"
+          "cost": 10000,
+          "currency": "UYU",
+          "image": "../img/px/prod40001_1.webp"
       },
       {
           "id":40003,
           "name":"Cortadora de Césped NAPPO",
-          "image": "img/px/prod40003_1.webp"
+          "cost": 4500,
+          "currency": "UYU",
+          "image": "../img/px/prod40003_1.webp"
       },
       {
           "id":40004,
           "name":"Escalera de Acero de Carbono Plegable",
-          "image": "img/px/prod40004_1.webp"
+          "cost": 2500,
+          "currency": "UYU",
+          "image": "../img/px/prod40004_1.webp"
       }
   ]
 }

@@ -16,12 +16,16 @@
       {
           "id":20001,
           "name":"Oso de peluche",
-          "image": "../img/prod20001_1.jpg"
+          "cost": 2400,
+          "currency": "UYU",
+          "image": "../img/px/prod20001_1.jpg"
       },
       {
-          "id":20002,
-          "name":"PlayStation 5",
-          "image": "../img/prod50743_1.jpg"
+          "id":20004,
+          "name":"Bicicleta",
+          "cost": 10999,
+          "currency": "UYU",
+          "image": "../img/px/prod20004_1.jpg"
       }
   ]
 }

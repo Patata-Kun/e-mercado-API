@@ -12,16 +12,20 @@
         "../img/px/prod20004_3.jpg",
         "../img/px/prod20004_4.jpg"
     ],
-    "relatedProducts": [
-        {
-            "id":20001,
-            "name":"Oso de peluche",
-            "image": "../img/prod50741_1.jpg"
-        },
-        {
-            "id":20003,
-            "name":"PlayStation 5",
-            "image": "../img/prod50743_1.jpg"
-        }
+  "relatedProducts": [
+      {
+          "id":20001,
+          "name":"Oso de peluche",
+          "cost": 2400,
+          "currency": "UYU",
+          "image": "../img/px/prod20001_1.jpg"
+      },
+      {
+          "id":20002,
+          "name":"Pelota de básquetbol",
+          "cost": 2999,
+          "currency": "UYU",
+          "image": "../img/px/prod20002_1.jpg"
+      }
     ]
 }

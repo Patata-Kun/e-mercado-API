@@ -7,25 +7,31 @@
   "soldCount": 37,
   "category": "Muebles",
   "images": [
-      "img/px/prod30004_1.jpg",
-      "img/px/prod30004_2.jpg",
-      "img/px/prod30004_3.jpg"
+      "../img/px/prod30004_1.jpg",
+      "../img/px/prod30004_2.jpg",
+      "../img/px/prod30004_3.jpg"
   ],
   "relatedProducts": [
     {
           "id":30001,
           "name":"Juego de Comedor",
-          "image": "img/px/prod30001_1.jpg"
+          "cost": 4000,
+          "currency": "UYU",
+          "image": "../img/px/prod30001_1"
       },
-      {
+    {
           "id":30002,
           "name":"Sofá",
-          "image": "img/px/prod30002_1.jpg"
+          "cost": 24000,
+          "currency": "UYU",
+          "image": "../img/px/prod30002_1.jpg"
       },
       {
           "id":30003,
           "name":"Armario",
-          "image": "img/px/prod50744_1.jpg"
+          "cost": 8000,
+          "currency": "UYU",
+          "image": "../img/px/prod30003_1.jpg"
       }
   ]
 }

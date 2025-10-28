@@ -7,25 +7,31 @@
   "soldCount": 9,
   "category": "Herramientas",
   "images": [
-      "img/px/prod40001_1.webp",
-      "img/px/prod40001_2.webp",
-      "img/px/prod40001_3.webp"
+      "../img/px/prod40001_1.webp",
+      "../img/px/prod40001_2.webp",
+      "../img/px/prod40001_3.webp"
   ],
   "relatedProducts": [
     {
           "id":40002,
           "name":"Hidrolavadora NAPPO",
-          "image": "img/px/prod40002_1.webp"
+          "cost": 1200,
+          "currency": "UYU",
+          "image": "../img/px/prod40002_1.webp"
       },
       {
           "id":40005,
           "name":"Motosierra NAPPO a Nafta",
-          "image": "img/px/prod40005_1.webp"
+          "cost": 2500,
+          "currency": "UYU",
+          "image": "../img/px/prod40005_1.webp"
       },
       {
           "id":40006,
           "name":"Taladro de Impacto Inalámbrico NAPPO",
-          "image": "img/px/prod40006_1.webp"
+          "cost": 2000,
+          "currency": "UYU",
+          "image": "../img/px/prod40006_1.webp"
       }
   ]
 }
