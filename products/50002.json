@@ -20,6 +20,29 @@
     "../img/px/prod50002_3.jpg",
     "../img/px/prod50002_4.jpg"
   ],
+  "relatedProducts": [
+    {
+      "id": 50003,
+      "name": "Samsung Galaxy ZFlip7",
+      "cost": 1149,
+      "currency": "USD",
+      "image": "../img/px/prod50003_1.jpg"
+    },
+    {
+      "id": 50001,
+      "name": "PC de escritorio",
+      "cost": 2599,
+      "currency": "USD",
+      "image": "../img/px/prod50001_1.jpg"
+    },
+    {
+      "id": 50006,
+      "name": "Samsung Galaxy XR",
+      "cost": 1799,
+      "currency": "USD",
+      "image": "../img/px/prod50006_1.jpg"
+    }
+  ],
   "color": [
     "Space Black",
     "Silver"

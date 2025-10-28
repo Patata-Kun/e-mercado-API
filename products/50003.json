@@ -3,13 +3,13 @@
   "name": "Samsung Galaxy ZFlip7",
   "category": "Tecnología",
   "description": [
-        "Pantalla -> Principal de 6,9\" Dynamic AMOLED 2x, 1 a 120 Hz. De cubierta de 4,1\" Super AMOLED, 60 a 120 Hz.",
-        "Cámaras -> Wide de 50 MP F1.8. Ultrawide de 12 MP F2.2 Frontal de 10 MP F2.2.",
-        "Procesador -> Qualcomm Snapdragon© 8 Elite para Galxaxy.",
-        "Memoria -> 12 GB.",
-        "Batería -> 4300 mAh",
-        "Almacenamiento -> 256 GB o 512 GB."
-      ],
+    "Pantalla -> Principal de 6,9\" Dynamic AMOLED 2x, 1 a 120 Hz. Dcubierta de 4,1\" Super AMOLED, 60 a 120 Hz.",
+    "Cámaras -> Wide de 50 MP F1.8. Ultrawide de 12 MP F2.2 Frontal de 1MP F2.2.",
+    "Procesador -> Qualcomm Snapdragon© 8 Elite para Galxaxy.",
+    "Memoria -> 12 GB.",
+    "Batería -> 4300 mAh",
+    "Almacenamiento -> 256 GB o 512 GB."
+  ],
   "cost": 1149,
   "currency": "USD",
   "soldCount": 8,
@@ -22,10 +22,11 @@
   ],
   "relatedProducts": [
     {
-      "id": "",
-      "name": "",
-      "cost": "",
-      "image": "" 
+      "id": 50006,
+      "name": "Samsung Galaxy XR",
+      "cost": 1799,
+      "currency": "USD",
+      "image": "../img/px/prod50006_1.jpg"
     }
   ],
   "version": [

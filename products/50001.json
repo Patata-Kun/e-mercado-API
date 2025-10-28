@@ -19,20 +19,27 @@
       "../img/px/prod50001_3.jpg"
   ],
   "relatedProducts": [
-      {
-          "id":50005,
-          "name":"PlayStation 5 Slim Standard – 1 TB",
-          "cost": 859,
-          "currency": "USD",
-          "image": "../img/px/prod50005_1.jpg"
-      },
-      {
-          "id":50002,
-          "name":"MacBook Pro M4 – 14\"",
-          "cost": 1149,
-          "currency": "USD",
-          "image": "../img/px/prod50002_1.jpg"
-      }
+    {
+      "id": 50005,
+      "name": "PlayStation 5 Slim Standard – 1 TB",
+      "cost": 859,
+      "currency": "USD",
+      "image": "../img/px/prod50005_1.jpg"
+    },
+    {
+      "id": 50002,
+      "name": "MacBook Pro M4 – 14\"",
+      "cost": 1149,
+      "currency": "USD",
+      "image": "../img/px/prod50002_1.jpg"
+    },
+    {
+      "id": 50006,
+      "name": "Samsung Galaxy XR",
+      "cost": 1799,
+      "currency": "USD",
+      "image": "../img/px/prod50006_1.jpg"
+    }
   ],
   "color": [
     "Charcoal black",
