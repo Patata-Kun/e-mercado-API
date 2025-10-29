@@ -7,8 +7,8 @@
   "soldCount": 97,
   "category": "Juguetes",
   "images": [
-      "img/px/prod20001_1.webp",
-      "img/px/prod20001_2.webp"
+      "../img/px/prod20001_1.jpg",
+      "../img/px/prod20001_2.jpg"
   ],
   "relatedProducts": [
       {
@@ -16,7 +16,7 @@
           "name":"Pelota de básquetbol",
           "cost": 2999,
           "currency": "UYU",
-          "image": "../img/px/prod20002_1.jpg"
+          "image": "../img/px/prod80002_1.jpg"
       },
       {
           "id":20004,

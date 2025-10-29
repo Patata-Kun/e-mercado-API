@@ -27,7 +27,7 @@
       "cost": 20000,
       "currency": "UYU",
       "soldCount": 16,
-      "image": "../img/px/prod70003_1.jpg"
+      "image": "../img/px/prod70003_1.webp"
     },
     {
       "id": 70004,
@@ -36,7 +36,7 @@
       "cost": 14000,
       "currency": "UYU",
       "soldCount": 33,
-      "image": "../img/px/prod70004_1.jpg"
+      "image": "../img/px/prod70004_1.png"
     },
     {
       "id": 70005,
@@ -54,7 +54,7 @@
       "cost": 3500,
       "currency": "UYU",
       "soldCount": 42,
-      "image": "../img/px/prod70006_1.jpg"
+      "image": "../img/px/prod70006_1.webp"
     }
   ]
 }
