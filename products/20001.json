@@ -1,8 +1,8 @@
 {
   "id": 20001,
   "name": "Oso de peluche",
-  "description": "Oso de peluche gigante, con el bebé. Resistente y lavable. Tus hijoslos amarán",
-  "cost": 2400,
+  "description": "Oso de peluche mediano (22 cm). Resistente, lavable y super suave. Tus hijos lo amarán.",
+  "cost": 500,
   "currency": "UYU",
   "soldCount": 97,
   "category": "Juguetes",

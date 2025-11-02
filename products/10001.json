@@ -21,5 +21,11 @@
     "https://www.byd.com/content/dam/byd-site/co/order/seagull/pc/Orderside-SproutGreen.jpg",
     "https://www.byd.com/content/dam/byd-site/co/order/seagull/pc/Orderside-PolarNightBlack.jpg",
     "https://www.byd.com/content/dam/byd-site/co/order/seagull/pc/Orderside-Peachpink.jpg"
+  ],
+  "color": [
+    "Apricity white",
+    "Sprout green",
+    "Polar night black",
+    "Peach pink"
   ]
 }
