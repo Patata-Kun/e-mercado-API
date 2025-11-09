@@ -1,6 +1,6 @@
 {
     "id": 20004,
-    "name": "Bicicleta",
+    "name": "Bicicleta Mongoose Legion L16",
     "description": "¡La mejor BMX pequeña del mercado! Frenos traseros y cuadro duradero de acero Hi-Ten.",
     "cost": 10999,
     "currency": "UYU",
@@ -21,11 +21,11 @@
           "image": "../img/px/prod20001_1.jpg"
       },
       {
-          "id":20002,
+          "id":80002,
           "name":"Pelota de básquetbol",
           "cost": 2999,
           "currency": "UYU",
-          "image": "../img/px/prod20002_1.jpg"
+          "image": "../img/px/prod80002_1.jpg"
       }
     ]
 }
